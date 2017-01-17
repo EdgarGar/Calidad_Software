@@ -1,3 +1,7 @@
-#include <iostream>
 #include "Cesar.h"
-#include "Cifrado.h"
+
+int main(int argc, char const *argv[]) {
+  Cesar c;
+  
+  return 0;
+}
